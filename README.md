@@ -121,3 +121,4 @@ Stablecoins algorithmic or otherwise generally fit into a few categories as deta
 ## Alternative Lists 
 - [Epiisteme/awesome-stablecoins](https://github.com/Epiisteme/awesome-stablecoins)
 - [sdtsui/awesome-stablecoins](https://github.com/sdtsui/awesome-stablecoins)
+- [HostDeFi](https://hostdefi.com) — free token-safety scanner grading tokens A+–F from on-chain checks (mint/freeze authority, liquidity, holder concentration) across Solana + 7 EVM chains. Keyless REST API, hosted MCP, x402 endpoints.
